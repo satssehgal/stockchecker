@@ -1,4 +1,4 @@
-# stockchecker
+# Build a stock checker App (Stock'r)
 
 This file is meant to be for educational purposes only. The code will give you an idea of how to search other sites but be sure to honour their terms and conditions.
 
